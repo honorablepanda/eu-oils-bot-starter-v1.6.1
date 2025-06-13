@@ -1,0 +1,44 @@
+[
+  {
+    "module": "ResumeBuilderPro",
+    "usesLLM": false,
+    "showsLoading": false,
+    "showsError": false,
+    "migratedToUseLLM": false
+  },
+  {
+    "module": "CampaignBuilderLLMStepGenerator",
+    "usesLLM": false,
+    "showsLoading": false,
+    "showsError": false,
+    "migratedToUseLLM": false
+  },
+  {
+    "module": "InternshipFinder",
+    "usesLLM": false,
+    "showsLoading": false,
+    "showsError": false,
+    "migratedToUseLLM": false
+  },
+  {
+    "module": "CommentEngine",
+    "usesLLM": false,
+    "showsLoading": false,
+    "showsError": false,
+    "migratedToUseLLM": false
+  },
+  {
+    "module": "AIPlaybooks",
+    "usesLLM": false,
+    "showsLoading": false,
+    "showsError": false,
+    "migratedToUseLLM": false
+  },
+  {
+    "module": "PeerMentorQnA",
+    "usesLLM": false,
+    "showsLoading": false,
+    "showsError": false,
+    "migratedToUseLLM": false
+  }
+]
