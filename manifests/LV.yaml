@@ -1,0 +1,27 @@
+country: LV
+must_cover:
+- website_id: lv:apotheka.lv
+- website_id: lv:benu.lv
+- website_id: lv:barbora.lv
+- website_id: lv:citro.lv
+- website_id: lv:drogas.lv
+- website_id: lv:elvi.lv
+- website_id: lv:euroaptieka.lv
+- website_id: lv:lidl.lv
+- website_id: lv:loverte.lv
+- website_id: lv:maxima.lv
+- website_id: lv:mego.lv
+- website_id: lv:mylook.lv
+- website_id: lv:notino.lv
+- website_id: lv:rimi.lv
+- website_id: lv:top.lv
+long_tail: []
+gates:
+  min_retailers_active: 2
+  max_zero_result_retailers: 0
+  ean_or_sku_presence_rate: 0.6
+  unit_price_sanity:
+    eur_per_l:
+    - 1
+    - 200
+  wow_drop_threshold_pct: 70

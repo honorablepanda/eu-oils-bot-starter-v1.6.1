@@ -1,0 +1,71 @@
+BE:
+  # Local-language queries that strongly hint at retail + olive oil
+  query_terms:
+    - "olijfolie prijs supermarkt"
+    - "olijfolie aanbieding winkel"
+    - "huile d'olive prix supermarché"
+    - "huile d'olive promo magasin"
+    - "extra vierge olijfolie"
+    - "huile d'olive extra vierge"
+    - "courses huile d'olive drive"
+    - "olijfolie bio supermarkt"
+    - "huile d'olive bio supermarché"
+  # Search these TLDs; .be is primary, but .com/.eu can host BE storefronts
+  site_filters: [".be", ".com", ".eu"]
+  # Increase, if needed
+  max_results: 80
+  # Hints to improve classification
+  class_hints:
+    grocery: ["supermarkt", "supermarché", "boodschappen", "drive", "courses", "winkel"]
+    pharmacy: ["apotheek", "pharmacie", "parapharmacie"]
+    beauty: ["parfum", "cosmétique", "cosmetica", "beauty"]
+  # Known chains/platforms in BE (platform level, no sellers)
+  boost_domains:
+    - carrefour.be
+    - collectandgo.be
+    - delhaize.be
+    - colruyt.be
+    - okay.be
+    - bioplanet.be
+    - okaydrive.be
+    - cora.be
+    - spar.be
+    - intermarche.be
+    - match.be
+    - aldi.be
+    - lidl.be
+    - planeta.be
+    - avo.be
+    - farmaline.be
+    - kruidvat.be
+    - di.be
+
+NL:
+  query_terms:
+    - "olijfolie prijs supermarkt"
+    - "olijfolie aanbieding winkel"
+    - "extra vierge olijfolie"
+    - "olijfolie bio supermarkt"
+    - "boodschappen olijfolie online"
+  site_filters: [".nl", ".com", ".eu"]
+  max_results: 80
+  class_hints:
+    grocery: ["supermarkt", "boodschappen", "winkel", "bezorging", "pick up"]
+    pharmacy: ["apotheek", "drogist", "drogisterij", "pharma"]
+    beauty: ["cosmetica", "parfum", "make-up", "beauty"]
+  boost_domains:
+    - ah.nl
+    - jumbo.com
+    - plus.nl
+    - dirk.nl
+    - dekamarkt.nl
+    - hoogvliet.com
+    - poiesz-supermarkten.nl
+    - coop.nl
+    - spar.nl
+    - picnic.nl
+    - lidl.nl
+    - aldi.nl
+    - ekoplaza.nl
+    - kruidvat.nl
+    - etos.nl

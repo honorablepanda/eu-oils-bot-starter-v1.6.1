@@ -1,0 +1,36 @@
+country: BE
+must_cover:
+- website_id: be:aldi.be
+- website_id: be:bioplanet.be
+- website_id: be:bol.com
+- website_id: be:carrefour.be
+- website_id: be:colruyt.be
+- website_id: be:cora.be
+- website_id: be:di.be
+- website_id: be:delhaize.be
+- website_id: be:farmaline.be
+- website_id: be:hollandandbarrett.be
+- website_id: be:iciparisxl.be
+- website_id: be:intermarche.be
+- website_id: be:kruidvat.be
+- website_id: be:lidl.be
+- website_id: be:supermarchematch.be
+- website_id: be:medi-market.be
+- website_id: be:newpharma.be
+- website_id: be:notino.be
+- website_id: be:okay.be
+- website_id: be:planetparfum.com
+- website_id: be:shop-apotheke.be
+- website_id: be:spar.be
+- website_id: be:thebodyshop.com
+- website_id: be:yves-rocher.be
+long_tail: []
+gates:
+  min_retailers_active: 2
+  max_zero_result_retailers: 0
+  ean_or_sku_presence_rate: 0.6
+  unit_price_sanity:
+    eur_per_l:
+    - 1
+    - 200
+  wow_drop_threshold_pct: 70

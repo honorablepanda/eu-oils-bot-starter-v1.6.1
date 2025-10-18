@@ -1,0 +1,31 @@
+country: PT
+must_cover:
+- website_id: pt:aldi.pt
+- website_id: pt:auchan.pt
+- website_id: pt:celeiro.pt
+- website_id: pt:continente.pt
+- website_id: pt:coviran.pt
+- website_id: pt:farmaciasportuguesas.pt
+- website_id: pt:froiz.com
+- website_id: pt:intermarche.pt
+- website_id: pt:lidl.pt
+- website_id: pt:mercadona.pt
+- website_id: pt:minipreco.pt
+- website_id: pt:notino.pt
+- website_id: pt:boticario.pt
+- website_id: pt:perfumescosmetica.com
+- website_id: pt:pingodoce.pt
+- website_id: pt:pluricosmetica.com
+- website_id: pt:prozis.com
+- website_id: pt:skin.pt
+- website_id: pt:wells.pt
+long_tail: []
+gates:
+  min_retailers_active: 2
+  max_zero_result_retailers: 0
+  ean_or_sku_presence_rate: 0.6
+  unit_price_sanity:
+    eur_per_l:
+    - 1
+    - 200
+  wow_drop_threshold_pct: 70

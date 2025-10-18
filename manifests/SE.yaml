@@ -1,0 +1,34 @@
+country: SE
+must_cover:
+- website_id: se:apotea.se
+- website_id: se:apoteket.se
+- website_id: se:bangerhead.se
+- website_id: se:bodystore.com
+- website_id: se:citygross.se
+- website_id: se:coop.se
+- website_id: se:gymgrossisten.com
+- website_id: se:handlarn.se
+- website_id: se:hemkop.se
+- website_id: se:ica.se
+- website_id: se:kicks.se
+- website_id: se:kronansapotek.se
+- website_id: se:lidl.se
+- website_id: se:lyko.com
+- website_id: se:meds.se
+- website_id: se:mat.se
+- website_id: se:mathem.se
+- website_id: se:nordicfeel.se
+- website_id: se:svenskhalsokost.se
+- website_id: se:tempo.se
+- website_id: se:willys.se
+- website_id: se:ahlens.se
+long_tail: []
+gates:
+  min_retailers_active: 2
+  max_zero_result_retailers: 0
+  ean_or_sku_presence_rate: 0.6
+  unit_price_sanity:
+    eur_per_l:
+    - 1
+    - 200
+  wow_drop_threshold_pct: 70

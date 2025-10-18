@@ -1,0 +1,21 @@
+{
+  "ah_nl": {
+    "consent_accept_selector": "#privacy-layer-accept-all-button",
+    "load_more_selector": null
+  },
+  "jumbo_nl": {
+    "consent_accept_selector": "button[aria-label='Accepteer alle cookies']",
+    "load_more_selector": null
+  },
+  "carrefour_be": {
+    "consent_accept_selector_nl": "#didomi-notice-agree-button",
+    "consent_accept_selector_fr": "#didomi-notice-agree-button",
+    "load_more_selector": "button[data-testid='loadMoreBtn']"
+  },
+  "colruyt_be": {
+    "store_open_selector": ".store-picker",
+    "store_search_selector": "input[type='search']",
+    "store_option_selector": "button:has-text('Halle')",
+    "store_confirm_selector": ".confirm-store"
+  }
+}

@@ -1,0 +1,39 @@
+﻿# ---- outputs/caches (never commit) ----
+_pw_profile/
+logs/
+backups/
+debug/
+exports/
+reports/
+data/
+*.sqlite
+*.db
+
+# Playwright/Chrome noise
+**/Cache/
+**/Code Cache/
+**/GPUCache/
+**/DawnWebGPUCache/
+**/DawnGraphiteCache/
+**/Service Worker/
+**/Shared Dictionary/
+**/Local Storage/
+**/Network/
+**/Sessions/
+**/blob_storage/
+
+# Python junk
+__pycache__/
+*.py[cod]
+*.pyo
+*.log
+*.tmp
+
+# OS / IDE
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Node
+node_modules/

@@ -1,0 +1,31 @@
+country: HR
+must_cover:
+- website_id: hr:bio-bio.hr
+- website_id: hr:bipa.hr
+- website_id: hr:douglas.hr
+- website_id: hr:eurospin.hr
+- website_id: hr:farmacia.hr
+- website_id: hr:interspar.hr
+- website_id: hr:ktc.hr
+- website_id: hr:kaufland.hr
+- website_id: hr:konzum.hr
+- website_id: hr:lidl.hr
+- website_id: hr:ljekarna24.hr
+- website_id: hr:mueller.hr
+- website_id: hr:notino.hr
+- website_id: hr:plodine.hr
+- website_id: hr:ribola.hr
+- website_id: hr:spar.hr
+- website_id: hr:studenac.hr
+- website_id: hr:tommy.hr
+- website_id: hr:dm.hr
+long_tail: []
+gates:
+  min_retailers_active: 2
+  max_zero_result_retailers: 0
+  ean_or_sku_presence_rate: 0.6
+  unit_price_sanity:
+    eur_per_l:
+    - 1
+    - 200
+  wow_drop_threshold_pct: 70

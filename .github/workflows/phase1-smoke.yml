@@ -1,0 +1,25 @@
+name: Phase1 Smoke
+
+on:
+  push:
+    paths:
+      - "tools/phase1/**.py"
+      - ".github/workflows/phase1-smoke.yml"
+  pull_request:
+    paths:
+      - "tools/phase1/**.py"
+
+jobs:
+  py-compile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Compile phase1 files
+        run: |
+          python -m py_compile tools/phase1/phase1_oilbot.py
+          python -m py_compile tools/phase1/utils_playwright.py

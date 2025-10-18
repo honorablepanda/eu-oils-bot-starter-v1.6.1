@@ -1,0 +1,25 @@
+country: SI
+must_cover:
+- website_id: si:eurospin.si
+- website_id: si:hofer.si
+- website_id: si:interspar.si
+- website_id: si:jager.si
+- website_id: si:lekarnar.com
+- website_id: si:lidl.si
+- website_id: si:mercator.si
+- website_id: si:mueller.si
+- website_id: si:notino.si
+- website_id: si:spar.si
+- website_id: si:sanolabor.si
+- website_id: si:tus.si
+- website_id: si:dm.si
+long_tail: []
+gates:
+  min_retailers_active: 2
+  max_zero_result_retailers: 0
+  ean_or_sku_presence_rate: 0.6
+  unit_price_sanity:
+    eur_per_l:
+    - 1
+    - 200
+  wow_drop_threshold_pct: 70

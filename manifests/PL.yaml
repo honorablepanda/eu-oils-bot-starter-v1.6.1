@@ -1,0 +1,39 @@
+country: PL
+must_cover:
+- website_id: pl:aldi.pl
+- website_id: pl:auchan.pl
+- website_id: pl:biedronka.pl
+- website_id: pl:carrefour.pl
+- website_id: pl:cocolita.pl
+- website_id: pl:doz.pl
+- website_id: pl:marketdino.pl
+- website_id: pl:drogerienatura.pl
+- website_id: pl:leclerc.pl
+- website_id: pl:aptekagemini.pl
+- website_id: pl:pssgroszek.pl
+- website_id: pl:hebe.pl
+- website_id: pl:intermarche.pl
+- website_id: pl:kaufland.pl
+- website_id: pl:kontigo.com.pl
+- website_id: pl:polskasieclewiatan.pl
+- website_id: pl:lidl.pl
+- website_id: pl:netto.pl
+- website_id: pl:notino.pl
+- website_id: pl:polomarket.pl
+- website_id: pl:rossmann.pl
+- website_id: pl:stokrotka.pl
+- website_id: pl:superpharm.pl
+- website_id: pl:topaz24.pl
+- website_id: pl:ziko.pl
+- website_id: pl:ezebra.pl
+- website_id: pl:zabka.pl
+long_tail: []
+gates:
+  min_retailers_active: 2
+  max_zero_result_retailers: 0
+  ean_or_sku_presence_rate: 0.6
+  unit_price_sanity:
+    eur_per_l:
+    - 1
+    - 200
+  wow_drop_threshold_pct: 70

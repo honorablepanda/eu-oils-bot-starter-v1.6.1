@@ -1,0 +1,31 @@
+country: HU
+must_cover:
+- website_id: hu:aldi.hu
+- website_id: hu:auchan.hu
+- website_id: hu:benu.hu
+- website_id: hu:cba.hu
+- website_id: hu:coop.hu
+- website_id: hu:douglas.hu
+- website_id: hu:egeszsegbolt.hu
+- website_id: hu:herbahaz.hu
+- website_id: hu:lidl.hu
+- website_id: hu:mueller.hu
+- website_id: hu:notino.hu
+- website_id: hu:penny.hu
+- website_id: hu:pingvinpatika.hu
+- website_id: hu:prima.hu
+- website_id: hu:real.hu
+- website_id: hu:rossmann.hu
+- website_id: hu:spar.hu
+- website_id: hu:tesco.hu
+- website_id: hu:dm.hu
+long_tail: []
+gates:
+  min_retailers_active: 2
+  max_zero_result_retailers: 0
+  ean_or_sku_presence_rate: 0.6
+  unit_price_sanity:
+    eur_per_l:
+    - 1
+    - 200
+  wow_drop_threshold_pct: 70

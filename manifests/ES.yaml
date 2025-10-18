@@ -1,0 +1,49 @@
+country: ES
+must_cover:
+- website_id: es:aldi.es
+- website_id: es:ahorramas.com
+- website_id: es:alcampo.es
+- website_id: es:alimerka.es
+- website_id: es:arenal.com
+- website_id: es:mifarma.es
+- website_id: es:bmsupermercados.es
+- website_id: es:bonpreu.cat
+- website_id: es:bulevip.com
+- website_id: es:caprabo.com
+- website_id: es:carrefour.es
+- website_id: es:condisline.com
+- website_id: es:consum.es
+- website_id: es:coviran.es
+- website_id: es:dia.es
+- website_id: es:dosfarma.com
+- website_id: es:douglas.es
+- website_id: es:druni.es
+- website_id: es:eroski.es
+- website_id: es:froiz.com
+- website_id: es:gadis.es
+- website_id: es:hiberdist.com
+- website_id: es:hiperdino.es
+- website_id: es:elcorteingles.es
+- website_id: es:lasirena.es
+- website_id: es:lidl.es
+- website_id: es:lupa.com
+- website_id: es:maskom.es
+- website_id: es:mercadona.es
+- website_id: es:naturitas.es
+- website_id: es:nutritienda.com
+- website_id: es:perfumesclub.com
+- website_id: es:primor.eu
+- website_id: es:promofarma.com
+- website_id: es:sephora.es
+- website_id: es:supermercadosmas.com
+- website_id: es:yves-rocher.es
+long_tail: []
+gates:
+  min_retailers_active: 2
+  max_zero_result_retailers: 0
+  ean_or_sku_presence_rate: 0.6
+  unit_price_sanity:
+    eur_per_l:
+    - 1
+    - 200
+  wow_drop_threshold_pct: 70

@@ -1,0 +1,34 @@
+country: CZ
+must_cover:
+- website_id: cz:albert.cz
+- website_id: cz:benu.cz
+- website_id: cz:billa.cz
+- website_id: cz:biooo.cz
+- website_id: cz:coop.cz
+- website_id: cz:douglas.cz
+- website_id: cz:drmax.cz
+- website_id: cz:globus.cz
+- website_id: cz:hruska.cz
+- website_id: cz:jip.cz
+- website_id: cz:kaufland.cz
+- website_id: cz:lidl.cz
+- website_id: cz:notino.cz
+- website_id: cz:penny.cz
+- website_id: cz:pilulka.cz
+- website_id: cz:rohlik.cz
+- website_id: cz:rossmann.cz
+- website_id: cz:sephora.cz
+- website_id: cz:itesco.cz
+- website_id: cz:tetadrogerie.cz
+- website_id: cz:vivantis.cz
+- website_id: cz:dm.cz
+long_tail: []
+gates:
+  min_retailers_active: 2
+  max_zero_result_retailers: 0
+  ean_or_sku_presence_rate: 0.6
+  unit_price_sanity:
+    eur_per_l:
+    - 1
+    - 200
+  wow_drop_threshold_pct: 70

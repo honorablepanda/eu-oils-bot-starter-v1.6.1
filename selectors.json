@@ -1,0 +1,34 @@
+{
+  "archives": {
+    "global_priority": [
+      "wayback",
+      "ghost",
+      "memento",
+      "arquivo",
+      "ukwa",
+      "archivetoday"
+    ],
+    "timeout_ms": 5000,
+    "bad_day_threshold": 2,
+    "cooldowns": {
+      "unlock_hours": 12
+    }
+  },
+  "ah_nl": {
+    "consent_accept_selector": "#onetrust-accept-btn-handler"
+  },
+  "jumbo_nl": {
+    "consent_accept_selector": "#onetrust-accept-btn-handler"
+  },
+  "carrefour_be": {
+    "consent_accept_selector_nl": "button[title='Alles accepteren'], button:has-text('Alles accepteren')",
+    "consent_accept_selector_fr": "button[title='Accepter tout'], button:has-text('Accepter tout')",
+    "load_more_selector": null
+  },
+  "colruyt_be": {
+    "store_open_selector": "a:has-text('Verander winkel'), a:has-text('Zoek je winkel')",
+    "store_search_selector": "input[placeholder*='Zoek']",
+    "store_option_selector": "li:has-text('Halle')",
+    "store_confirm_selector": "button:has-text('Bevestig'), button:has-text('Bevestigen')"
+  }
+}

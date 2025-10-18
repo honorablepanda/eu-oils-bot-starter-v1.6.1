@@ -1,0 +1,39 @@
+country: FR
+must_cover:
+- website_id: fr:aldi.fr
+- website_id: fr:aroma-zone.com
+- website_id: fr:auchan.fr
+- website_id: fr:biocoop.fr
+- website_id: fr:carrefour.fr
+- website_id: fr:chronodrive.com
+- website_id: fr:cora.fr
+- website_id: fr:e.leclerc
+- website_id: fr:easyparapharmacie.com
+- website_id: fr:ecco-verde.fr
+- website_id: fr:franprix.fr
+- website_id: fr:grandfrais.com
+- website_id: fr:casinodrive.fr
+- website_id: fr:intermarche.com
+- website_id: fr:lidl.fr
+- website_id: fr:marionnaud.fr
+- website_id: fr:monoprix.fr
+- website_id: fr:newpharma.fr
+- website_id: fr:nocibe.fr
+- website_id: fr:onatera.com
+- website_id: fr:parashop.com
+- website_id: fr:picard.fr
+- website_id: fr:santediscount.com
+- website_id: fr:sephora.fr
+- website_id: fr:shop-pharmacie.fr
+- website_id: fr:coursesu.com
+- website_id: fr:yves-rocher.fr
+long_tail: []
+gates:
+  min_retailers_active: 2
+  max_zero_result_retailers: 0
+  ean_or_sku_presence_rate: 0.6
+  unit_price_sanity:
+    eur_per_l:
+    - 1
+    - 200
+  wow_drop_threshold_pct: 70

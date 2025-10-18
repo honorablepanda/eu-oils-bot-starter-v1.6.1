@@ -1,0 +1,14 @@
+country: BE
+long_tail_add:
+- website_id: be:aldi.be
+- website_id: be:bioplanet.be
+- website_id: be:carrefour.be
+- website_id: be:colruyt.be
+- website_id: be:cora.be
+- website_id: be:delhaize.be
+- website_id: be:intermarche.be
+- website_id: be:lidl.be
+- website_id: be:match.be
+- website_id: be:okay.be
+- website_id: be:okaydrive.be
+- website_id: be:spar.be

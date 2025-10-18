@@ -1,0 +1,1 @@
+# TODO: implement local snapshot index (Whoosh/Lucene).

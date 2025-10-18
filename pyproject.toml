@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "eu-oils-bot"
+version = "0.1.0"
+description = "EU Oils Price Bot — starter scaffold (blueprint v1.6.1)"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "playwright>=1.46.0",
+  "pydantic>=2.8.0",
+  "pyyaml>=6.0.1",
+  "beautifulsoup4>=4.12.3",
+  "lxml>=5.2.1",
+  "tqdm>=4.66.0",
+]
+
+[tool.ruff]
+line-length = 100

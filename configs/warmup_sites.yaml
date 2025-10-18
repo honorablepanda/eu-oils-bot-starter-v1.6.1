@@ -1,0 +1,8 @@
+sites:
+  - https://example.com
+  - https://www.wikipedia.org
+  - https://httpbin.org/html
+cooloff_hours: 48
+duration_seconds: 65
+max_pages: 5
+max_clicks_per_page: 2

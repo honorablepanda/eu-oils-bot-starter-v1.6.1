@@ -1,0 +1,11 @@
+
+# Negative dictionaries per language to suppress false positives
+fr:
+  - cacao
+  - moteur
+nl:
+  - cacao
+  - motorolie
+de:
+  - kakao
+  - motoröl

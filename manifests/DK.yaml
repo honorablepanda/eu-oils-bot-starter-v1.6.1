@@ -1,0 +1,34 @@
+country: DK
+must_cover:
+- website_id: dk:apopro.dk
+- website_id: dk:apotekeren.dk
+- website_id: dk:beautycos.dk
+- website_id: dk:bilka.dk
+- website_id: dk:cocopanda.dk
+- website_id: dk:coop365.dk
+- website_id: dk:coop.dk
+- website_id: dk:helsam.dk
+- website_id: dk:helsemin.dk
+- website_id: dk:kvickly.dk
+- website_id: dk:lidl.dk
+- website_id: dk:luxplus.dk
+- website_id: dk:meny.dk
+- website_id: dk:matas.dk
+- website_id: dk:med24.dk
+- website_id: dk:netto.dk
+- website_id: dk:nicehair.dk
+- website_id: dk:rema1000.dk
+- website_id: dk:spar.dk
+- website_id: dk:superbrugsen.dk
+- website_id: dk:webapoteket.dk
+- website_id: dk:foetex.dk
+long_tail: []
+gates:
+  min_retailers_active: 2
+  max_zero_result_retailers: 0
+  ean_or_sku_presence_rate: 0.6
+  unit_price_sanity:
+    eur_per_l:
+    - 1
+    - 200
+  wow_drop_threshold_pct: 70

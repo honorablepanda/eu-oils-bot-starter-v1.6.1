@@ -1,0 +1,44 @@
+country: IT
+must_cover:
+- website_id: it:aldi.it
+- website_id: it:acquaesapone.it
+- website_id: it:amicafarmacia.com
+- website_id: it:bennet.com
+- website_id: it:bottegaverde.it
+- website_id: it:craiweb.it
+- website_id: it:carrefour.it
+- website_id: it:conad.it
+- website_id: it:coop.it
+- website_id: it:despar.it
+- website_id: it:douglas.it
+- website_id: it:ecco-verde.it
+- website_id: it:ilgiardinodeilibri.it
+- website_id: it:esselunga.it
+- website_id: it:eurospin.it
+- website_id: it:famila.it
+- website_id: it:farmae.it
+- website_id: it:ilgigante.net
+- website_id: it:iper.it
+- website_id: it:iperal.it
+- website_id: it:kikocosmetics.com
+- website_id: it:lidl.it
+- website_id: it:mdspa.it
+- website_id: it:notino.it
+- website_id: it:pampanorama.it
+- website_id: it:pinalli.it
+- website_id: it:sephora.it
+- website_id: it:supersigma.com
+- website_id: it:tigota.it
+- website_id: it:tigros.it
+- website_id: it:todis.it
+- website_id: it:efarma.com
+long_tail: []
+gates:
+  min_retailers_active: 2
+  max_zero_result_retailers: 0
+  ean_or_sku_presence_rate: 0.6
+  unit_price_sanity:
+    eur_per_l:
+    - 1
+    - 200
+  wow_drop_threshold_pct: 70
