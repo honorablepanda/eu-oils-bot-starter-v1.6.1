@@ -1,0 +1,12 @@
+
+# Localized slugs / terms per oil (extend per blueprint)
+olive_oil:
+  - huile-d-olive
+  - olijfolie
+  - olio-di-oliva
+  - olivenöl
+sunflower_oil:
+  - huile-de-tournesol
+  - zonnebloemolie
+  - olio-di-girasole
+  - sonnenblumenöl

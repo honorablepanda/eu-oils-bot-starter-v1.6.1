@@ -1,0 +1,4802 @@
+[
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/huile-d-olive",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/category/huile-d-olive",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/shop/huile-d-olive",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/c/huile-d-olive",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/cat/huile-d-olive",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/rayon/huile-d-olive",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/epicerie/huile-d-olive",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/olijfolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/category/olijfolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/shop/olijfolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/c/olijfolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/cat/olijfolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/rayon/olijfolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/epicerie/olijfolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/olio-di-oliva",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/category/olio-di-oliva",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/shop/olio-di-oliva",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/c/olio-di-oliva",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/cat/olio-di-oliva",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/rayon/olio-di-oliva",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/epicerie/olio-di-oliva",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/olivenöl",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/category/olivenöl",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/shop/olivenöl",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/c/olivenöl",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/cat/olivenöl",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/rayon/olivenöl",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/epicerie/olivenöl",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/search?q=huile-d-olive",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/recherche?q=huile-d-olive",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/zoek?q=huile-d-olive",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/zoeken?text=huile-d-olive",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/catalogsearch/result/?q=huile-d-olive",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/search?q=olijfolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/recherche?q=olijfolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/zoek?q=olijfolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/zoeken?text=olijfolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/catalogsearch/result/?q=olijfolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/search?q=olio-di-oliva",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/recherche?q=olio-di-oliva",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/zoek?q=olio-di-oliva",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/zoeken?text=olio-di-oliva",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/catalogsearch/result/?q=olio-di-oliva",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/search?q=oliven%C3%B6l",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": false,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/recherche?q=oliven%C3%B6l",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": false,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/zoek?q=oliven%C3%B6l",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": false,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/zoeken?text=oliven%C3%B6l",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": false,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/catalogsearch/result/?q=oliven%C3%B6l",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": false,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/category/huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/shop/huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/c/huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/cat/huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/rayon/huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/epicerie/huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/zonnebloemolie",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/category/zonnebloemolie",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/shop/zonnebloemolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/c/zonnebloemolie",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/cat/zonnebloemolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/rayon/zonnebloemolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/epicerie/zonnebloemolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/olio-di-girasole",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/category/olio-di-girasole",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/shop/olio-di-girasole",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/c/olio-di-girasole",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/cat/olio-di-girasole",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/rayon/olio-di-girasole",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/epicerie/olio-di-girasole",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/sonnenblumenöl",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/category/sonnenblumenöl",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/shop/sonnenblumenöl",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/c/sonnenblumenöl",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/cat/sonnenblumenöl",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/rayon/sonnenblumenöl",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.carrefour.be/epicerie/sonnenblumenöl",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/search?q=huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/recherche?q=huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/zoek?q=huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/zoeken?text=huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/catalogsearch/result/?q=huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/search?q=zonnebloemolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/recherche?q=zonnebloemolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/zoek?q=zonnebloemolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/zoeken?text=zonnebloemolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/catalogsearch/result/?q=zonnebloemolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/search?q=olio-di-girasole",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/recherche?q=olio-di-girasole",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/zoek?q=olio-di-girasole",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/zoeken?text=olio-di-girasole",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/catalogsearch/result/?q=olio-di-girasole",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/search?q=sonnenblumen%C3%B6l",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": false,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/recherche?q=sonnenblumen%C3%B6l",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": false,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/zoek?q=sonnenblumen%C3%B6l",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": false,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/zoeken?text=sonnenblumen%C3%B6l",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": false,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:carrefour.be",
+    "domain": "www.carrefour.be",
+    "retailer_name": "Carrefour",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.carrefour.be/catalogsearch/result/?q=sonnenblumen%C3%B6l",
+    "archive_hits": {
+      "wayback": 227,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 85,
+    "signals": {
+      "oil_in_url": false,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/huile-d-olive",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/category/huile-d-olive",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/shop/huile-d-olive",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/c/huile-d-olive",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/cat/huile-d-olive",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/rayon/huile-d-olive",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/epicerie/huile-d-olive",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/olijfolie",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/category/olijfolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/shop/olijfolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/c/olijfolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/cat/olijfolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/rayon/olijfolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/epicerie/olijfolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/olio-di-oliva",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/category/olio-di-oliva",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/shop/olio-di-oliva",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/c/olio-di-oliva",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/cat/olio-di-oliva",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/rayon/olio-di-oliva",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/epicerie/olio-di-oliva",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/olivenöl",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/category/olivenöl",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/shop/olivenöl",
+    "archive_hits": {
+      "wayback": 22,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 19,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/c/olivenöl",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/cat/olivenöl",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/rayon/olivenöl",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/epicerie/olivenöl",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/search?q=huile-d-olive",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/recherche?q=huile-d-olive",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/zoek?q=huile-d-olive",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/zoeken?text=huile-d-olive",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/catalogsearch/result/?q=huile-d-olive",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/search?q=olijfolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/recherche?q=olijfolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/zoek?q=olijfolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/zoeken?text=olijfolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/catalogsearch/result/?q=olijfolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/search?q=olio-di-oliva",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/recherche?q=olio-di-oliva",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/zoek?q=olio-di-oliva",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/zoeken?text=olio-di-oliva",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/catalogsearch/result/?q=olio-di-oliva",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/search?q=oliven%C3%B6l",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": false,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/recherche?q=oliven%C3%B6l",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": false,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/zoek?q=oliven%C3%B6l",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": false,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/zoeken?text=oliven%C3%B6l",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": false,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "olive_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/catalogsearch/result/?q=oliven%C3%B6l",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": false,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/category/huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/shop/huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 22,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 19,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/c/huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/cat/huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/rayon/huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/epicerie/huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/zonnebloemolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/category/zonnebloemolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/shop/zonnebloemolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/c/zonnebloemolie",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/cat/zonnebloemolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/rayon/zonnebloemolie",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/epicerie/zonnebloemolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/olio-di-girasole",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/category/olio-di-girasole",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/shop/olio-di-girasole",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/c/olio-di-girasole",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/cat/olio-di-girasole",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/rayon/olio-di-girasole",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/epicerie/olio-di-girasole",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/sonnenblumenöl",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/category/sonnenblumenöl",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/shop/sonnenblumenöl",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/c/sonnenblumenöl",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/cat/sonnenblumenöl",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/rayon/sonnenblumenöl",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "category",
+    "source": "sluggen",
+    "original_url": "https://www.delhaize.be/epicerie/sonnenblumenöl",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/search?q=huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 15,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 9,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/recherche?q=huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/zoek?q=huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/zoeken?text=huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/catalogsearch/result/?q=huile-de-tournesol",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/search?q=zonnebloemolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/recherche?q=zonnebloemolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/zoek?q=zonnebloemolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/zoeken?text=zonnebloemolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/catalogsearch/result/?q=zonnebloemolie",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/search?q=olio-di-girasole",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/recherche?q=olio-di-girasole",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/zoek?q=olio-di-girasole",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/zoeken?text=olio-di-girasole",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/catalogsearch/result/?q=olio-di-girasole",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": true,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/search?q=sonnenblumen%C3%B6l",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": false,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/recherche?q=sonnenblumen%C3%B6l",
+    "archive_hits": {
+      "wayback": 0,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 0,
+    "signals": {
+      "oil_in_url": false,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/zoek?q=sonnenblumen%C3%B6l",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": false,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/zoeken?text=sonnenblumen%C3%B6l",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": false,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  },
+  {
+    "website_id": "BE:delhaize.be",
+    "domain": "www.delhaize.be",
+    "retailer_name": "Delhaize",
+    "country": "BE",
+    "oil": "sunflower_oil",
+    "class": "search",
+    "source": "search",
+    "original_url": "https://www.delhaize.be/catalogsearch/result/?q=sonnenblumen%C3%B6l",
+    "archive_hits": {
+      "wayback": 740,
+      "arquivo": 0
+    },
+    "months_with_snapshots": 110,
+    "signals": {
+      "oil_in_url": false,
+      "unit_tokens": false,
+      "per_unit_price": false,
+      "oil_in_title": false,
+      "currency_tokens": false,
+      "locale_ok": true,
+      "gtin_valid": false
+    },
+    "notes": ""
+  }
+]
