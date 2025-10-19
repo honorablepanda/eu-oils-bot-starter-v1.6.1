@@ -38,3 +38,5 @@ desktop.ini
 # Node
 node_modules/
 *.xlsx
+dev/
+*.bak
