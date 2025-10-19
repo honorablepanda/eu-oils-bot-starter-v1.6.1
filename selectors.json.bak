@@ -1,0 +1,17 @@
+{
+  "archives": {
+    "global_priority": [
+      "wayback",
+      "ghost",
+      "memento",
+      "arquivo",
+      "ukwa",
+      "archivetoday"
+    ],
+    "timeout_ms": 5000,
+    "bad_day_threshold": 2,
+    "cooldowns": {
+      "unlock_hours": 12
+    }
+  }
+}

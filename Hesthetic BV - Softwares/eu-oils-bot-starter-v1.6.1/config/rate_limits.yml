@@ -1,7 +1,0 @@
-
-archives:
-  wayback:   { rps: 1 }
-  arquivo:   { rps: 1 }
-  memento:   { rps: 1 }
-search:
-  searxng:   { rps: 0.2, daily_cap: 20 }

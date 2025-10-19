@@ -1,0 +1,6 @@
+code,name,country,website_id,base_url,category_url,locale,oil_type,prefer_archive,archive_priority,archive_providers,scroll_strategy,max_pages,load_more_selector,preferred_store_name,store_open_selector,store_confirm_selector,unlock_cooldown_hours,rate_refill_per_s,rate_capacity,notes
+ah_nl,Albert Heijn,NL,nl:ah.nl,https://www.ah.nl,,nl-NL,olive_oil,FALSE,"wayback,archivetoday,memento,ghost,arquivo,ukwa",,paged,6,,,,,12,0.7,4,Use allowed pagination ?page=N (&withOffset=true).
+jumbo_nl,Jumbo,NL,nl:jumbo.com,https://www.jumbo.com,,nl-NL,olive_oil,TRUE,"wayback,archivetoday,memento,ghost,arquivo,ukwa",,auto,6,,,,,12,0.7,4,Headed unlock allowed; CF appears intermittently; flip early to archives.
+carrefour_be,Carrefour Belgium,BE,be:carrefour.be,https://www.carrefour.be,,nl-BE,olive_oil,FALSE,"wayback,archivetoday,memento,ghost,arquivo,ukwa",,auto,6,,,,,12,0.7,4,Consent first; load-more or scroll; flip to archives if cards <5 after first scroll.
+colruyt_be,Colruyt,BE,be:colruyt.be,https://www.colruyt.be,,nl-BE,olive_oil,FALSE,"wayback,archivetoday,memento,ghost,arquivo,ukwa",,auto,6,,Halle,,,12,0.7,4,Do legit one-time store picker; persist; reload category.
+vomar_nl,Vomar,NL,nl:vomar.nl,https://www.vomar.nl,,nl-NL,olive_oil,FALSE,"wayback,archivetoday,memento,ghost,arquivo,ukwa",,auto,6,,,,,12,0.7,4,
